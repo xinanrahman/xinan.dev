@@ -9,6 +9,7 @@
 
 // const redis = Redis.fromEnv();
 
+export default function ProjectsPage() {}
 // export const revalidate = 60;
 // export default async function ProjectsPage() {
 //   const views = (
